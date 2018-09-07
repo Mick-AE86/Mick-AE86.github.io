@@ -1,7 +1,7 @@
 # Game Review
  
 
-* Game Title: Respawn
+* Game: Respawn
 
 
 # Review
