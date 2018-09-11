@@ -9,4 +9,4 @@ Currently creating something related to games. Who knows when they will be avail
 
 ### Contact
 Telephone: xxx-xxx-xxxx
-Electronic Mail: whitebusiness@info.jp
+Electronic Mail: business@info.jp
