@@ -1,6 +1,6 @@
 ## 太鼓の達人 Taiko no Tatsujin (Taiko Drum Master) Nintendo Switch Version
-Taiko Drum Master Nintendo Switch Version is a ported game of the popular arcade title in Japan.
-It was initially released on July 19, 2018 in Japan and is set to release in Europe and North America on November 2, 2018.
+Taiko Drum Master Nintendo Switch Version is a ported game of the popular arcade title of the same name in Japan and is developed and published by Bandai Namco Entertainment.
+It was initially released on July 19, 2018 in Japan and is set to release in Europe and North America on November 2, 2018 under the name Taiko no Tatsujin: Drum 'N' Fun!
 # 
 Some important aspects of the game that is important to test include: The many play styles of the game, the compatibility of the separate Drum controller produced by Hori, the music, and the calibration in regard to the music.
 #
@@ -14,5 +14,5 @@ The last play stye utilizes the taiko drum controller created by HORI. HORI is c
 #
 What's a rhythm game without music? Probably not a rhythm game. The game must be able to play the music at the appropiate time or at the user's request.
 The timing calibration is vital for a rhythm game. The consumer expects for the input to register along with the notes of the music. The game solves this by providing the player with the option to test their own calibration for their television. As mentioned before, by the game being able to register the strikes accordingly, the television calibration will be successful.
-
-
+# Conclusion
+The forementioned features of the Taiko no Tatsujin game are important to test in order for the game to be functional and enjoyable for the consumer. Offering the player many options to play and ensuring convenience for their customers. Based on these features of the game, the developers may have had the consumer in mind and thouroughly tested to create a drum 'n' fun experience.
