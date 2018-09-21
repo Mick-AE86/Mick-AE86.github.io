@@ -12,4 +12,4 @@ The player is also able to use the touch screen on the console. Of course, this 
 #
 The last play stye utilizes the taiko drum controller created by HORI. HORI is currently partnered with Nintendo to create products and accessories for the Switch console. Testing this third party controller for functionality and compatability with the software is important mainly because the product is advertised alongside the port of the game. If the controller does not work properly, the consumer will be let down and the company could risk losing money.
 #
-The timing calibration is vital for a rhythm game. The consumer expects for the input to register along with the notes of the music.  
+The timing calibration is vital for a rhythm game. The consumer expects for the input to register along with the notes of the music. 
