@@ -29,10 +29,10 @@
 | --- | --- | --- | --- |
 | 1 | Software starts|Main Menu appears| |	
 | 2 | User selects Story mode|User is in Story mode | |		
-| 3 | User may select New Game or Save game|If New game, user is prompted to choose character. If save game is selected, user chooses their save file and continues the game | |	
+| 3 | User may select New Game or Save game|If New game, user is prompted to choose character. If Save game is selected, user chooses their save file and continues the game. | |	
 | 4 | The player presses "P" key in Story mode| Player pauses game in Story mode | |	
 | 5 | Player returns to Main Menu| Player exits Story mode and enters game Menu screen| |	
-| 6 | User selects Build mode| | |			
+| 6 | User selects Build mode|User is in Online mode | |			
 | 7 |The player presses "P" key in Build mode|Player does not pause game in Build mode | |			
 | 8 | | | |			
 | 9 | | | |			
