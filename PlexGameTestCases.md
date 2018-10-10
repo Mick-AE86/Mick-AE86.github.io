@@ -28,9 +28,9 @@
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 | User is in Story mode| | |			
-| 2 | The player presses "P" key| Player pauses game in story mode | |			
+| 2 | The player presses "P" key in Story| Player pauses game in story mode | |			
 | 3 | User is in Build mode| | |			
-| 4 |The player presses "P" key |Player does not pause game in story mode | |			
+| 4 |The player presses "P" key in Build |Player does not pause game in build mode | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
