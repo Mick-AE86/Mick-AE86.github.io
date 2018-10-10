@@ -7,9 +7,7 @@
 * Test Case Name:
   * Story session pause
 * Component: 
-  * Play Driver Requirements
-  
-  To be able to pause the game only in story mode of the game. The user must test the functionality of the pause action and to ensure the game does not continue to run when the function is performed in story mode. Also the user must test to ensure that the pause funtionality does not exist in online mode. 
+  * Play Driver Requirements 
 * Test Case Designer:
    * Michael R.
 * Creation Date:
@@ -22,6 +20,7 @@
   * Only works it story mode.
 * Test Description/Purpose:
   *  You can’t pause the game in Build (online) mode, its constantly running whether the user is there or not. 
+  * To be able to pause the game only in story mode of the game. The user must test the functionality of the pause action and to ensure the game does not continue to run when the function is performed in story mode. Also the user must test to ensure that the pause funtionality does not exist in online mode.
 * Pre-Test Conditions:
   * The user's game session currently running and to be able to stop the game momentarily during story mode.
 ## Test Steps: 
