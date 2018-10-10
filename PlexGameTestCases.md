@@ -20,16 +20,16 @@
 * Requirements Covered:
   * Only works it story mode.
 * Test Description/Purpose:
-  *  You can’t pause the game in online mode, its constantly running whether the user is there or not. 
+  *  You can’t pause the game in Build (online) mode, its constantly running whether the user is there or not. 
 * Pre-Test Conditions:
   * The user's game session currently running and to be able to stop the game momentarily during story mode.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | User is in story mode| | |			
-| 2 | The player presses a button "P" key to pause the game during story mode session| | |			
-| 3 | User is in online mode| | |			
-| 4 | | | |			
+| 1 | User is in Story mode| | |			
+| 2 | The player presses "P" key| Player pauses game in story mode | |			
+| 3 | User is in Build mode| | |			
+| 4 |The player presses "P" key |Player does not pause game in story mode | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
