@@ -8,6 +8,7 @@
   * Story session pause
 * Component: 
   * Play Driver Requirements
+  
   To be able to pause the game only in story mode of the game. The user must test the functionality of the pause action and to ensure the game does not continue to run when the function is performed in story mode. Also the user must test to ensure that the pause funtionality does not exist in online mode. 
 * Test Case Designer:
    * Michael R.
@@ -51,23 +52,23 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #3.3Req5
 * Test Case Name:
-  * #Number
+  * #
 * Component: 
-  * Description
+  * Save Game Requirements
 * Test Case Designer:
   * Name
 * Creation Date:
-  * Date
+  * 2018 October 9
 * Modified By:
   * Name
 * Modified Date:
   * Date
 * Requirements Covered:
-  * Description
+  * The file must be saved in a particular format and include all the game data that needs to be read back in at a later time so the game can continue
 * Test Description/Purpose:
-  * Description
+  * If the file isn’t in a certain format then the game won’t be able to load all the information back in at a later date.
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
