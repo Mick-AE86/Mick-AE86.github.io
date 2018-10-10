@@ -73,10 +73,10 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
+| 1 |Software loads and Main Menu |The game starts up and the Player is presented with the Main Menu. | |			
+| 2 |Player selects Story Mode |Story mode Menu appears | |			
+| 3 |Player selects Load Game |Player goes to the load game Menu | |			
+| 4 |Player selects their save file | If in the correct format, the player will be able to access their save game | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
