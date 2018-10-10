@@ -27,16 +27,16 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | User selects Story mode|User is in Story mode | |			
-| 2 | The player presses "P" key in Story| Player pauses game in Story mode | |			
-| 3 | User selects Build mode| | |			
-| 4 |The player presses "P" key in Build |Player does not pause game in Build mode | |			
-| 5 | | | |			
-| 6 | | | |			
+| 1 | Software starts|Main Menu appears| |	
+| 2 | User selects Story mode|User is in Story mode | |			
+| 3 | The player presses "P" key in Story| Player pauses game in Story mode | |	
+| 4 | Player returns to Main Menu| Player exits Story mode and enters game Menu screen| |	
+| 5 | User selects Build mode| | |			
+| 6 |The player presses "P" key in Build |Player does not pause game in Build mode | |			
 | 7 | | | |			
 | 8 | | | |			
 | 9 | | | |			
-| 10 | | | |			
+| 10 | | | |					
 
 ## Overall Test Status:
 
