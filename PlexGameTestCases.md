@@ -27,10 +27,10 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | User is in Story mode| | |			
-| 2 | The player presses "P" key in Story| Player pauses game in story mode | |			
-| 3 | User is in Build mode| | |			
-| 4 |The player presses "P" key in Build |Player does not pause game in build mode | |			
+| 1 | User selects Story mode|User is in Story mode | |			
+| 2 | The player presses "P" key in Story| Player pauses game in Story mode | |			
+| 3 | User selects Build mode| | |			
+| 4 |The player presses "P" key in Build |Player does not pause game in Build mode | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
@@ -54,7 +54,7 @@
 * Test Case ID:
   * #3.3Req5
 * Test Case Name:
-  * #
+  * #Save game retrieval 
 * Component: 
   * Save Game Requirements
 * Test Case Designer:
