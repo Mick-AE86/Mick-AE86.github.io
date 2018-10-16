@@ -58,7 +58,7 @@ Success
 * Component: 
   * Save Game Requirements
 * Test Case Designer:
-  * Name
+  * Michael R.
 * Creation Date:
   * 2018 October 9
 * Modified By:
@@ -78,7 +78,7 @@ Success
 | 2 |Player selects Story Mode |Story mode Menu appears |√ |			
 | 3 |Player selects Load Game |Player goes to the load game Menu |√ |			
 | 4 |Player selects their save file | If in the correct format, the player will be able to access their save game |√ |			
-| 5 | | | |			
+| 5 |Save game reading and loading |If read correctly, the save file can properly load with the player's status and previous achievments successfully are stored and obtained |√ |			
 | 6 | | | |			
 | 7 | | | |			
 | 8 | | | |			
@@ -86,7 +86,7 @@ Success
 | 10 | | | |			
 
 ## Overall Test Status:
-
+Success
 
 
 ## Run History:
