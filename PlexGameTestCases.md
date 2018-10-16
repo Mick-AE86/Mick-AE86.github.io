@@ -1,6 +1,6 @@
 # Test Case: Plex
 
-## Test Details
+## Test Details 1
 
 * Test Case ID:
   * #3.5Req1
@@ -49,7 +49,7 @@ Success
 | 2 | 2018 October 13|Michael R. |Fail at step 7 |			
 | 3 |2018 October 14 |Michael R. |Pass |			
 
-## Test Details
+## Test Details 2
 
 * Test Case ID:
   * #3.3Req5
@@ -64,7 +64,7 @@ Success
 * Modified By:
   * 
 * Modified Date:
-  * 
+  * 2018 October 16
 * Requirements Covered:
   * The file must be saved in a particular format and include all the game data that needs to be read back in at a later time so the game can continue
 * Test Description/Purpose:
@@ -92,11 +92,11 @@ Success
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |2018 October 15 |Michael R. |pass |			
 | 2 | | | |			
 | 3 | | | |			
 
-## Test Details
+## Test Details 3
 
 * Test Case ID:
   * #3.3
