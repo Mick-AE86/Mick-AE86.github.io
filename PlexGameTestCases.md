@@ -13,9 +13,9 @@
 * Creation Date:
   * 2018 October 9
 * Modified By:
-  * Name
+  * Michael R.
 * Modified Date:
-  * Date
+  * 2018 October 14
 * Requirements Covered:
   * Only works it story mode.
 * Test Description/Purpose:
@@ -26,27 +26,28 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Software starts|Main Menu appears| |	
-| 2 | User selects Story mode|User is in Story mode | |		
-| 3 | User may select New Game or Save game|If New game, user is prompted to choose character. If Save game is selected, user chooses their save file and continues the game. | |	
-| 4 | The player presses "P" key in Story mode| Player pauses game in Story mode | |	
-| 5 | Player returns to Main Menu| Player exits Story mode and enters game Menu screen| |	
-| 6 | User selects Build mode|User is in Online mode | |			
-| 7 |The player presses "P" key in Build mode|Player does not pause game in Build mode | |			
+| 1 | Software starts|Main Menu appears|√ |	
+| 2 | User selects Story mode|User is in Story mode |√ |		
+| 3 | User may select New Game or Save game|If New game, user is prompted to choose character. If Save game is selected, user chooses their save file and continues the game. |√ |	
+| 4 | The player presses "P" key in Story mode| Player pauses game in Story mode |√ |	
+| 5 | Player returns to Main Menu| Player exits Story mode and enters game Menu screen|√ |	
+| 6 | User selects Build mode|User is in Online mode |√ |			
+| 7 |The player presses "P" key in Build mode|Player does not pause game in Build mode |√ |			
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |								
 
 ## Overall Test Status:
-
+Success
 
 
 ## Run History:
+
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |2018 October 12 |Michael R. |Fail at step 4|			
+| 2 | 2018 October 13|Michael R. |Fail at step 7 |			
+| 3 |2018 October 14 |Michael R. |Pass |			
 
 ## Test Details
 
@@ -73,10 +74,10 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Software loads and Main Menu |The game starts up and the Player is presented with the Main Menu. | |			
-| 2 |Player selects Story Mode |Story mode Menu appears | |			
-| 3 |Player selects Load Game |Player goes to the load game Menu | |			
-| 4 |Player selects their save file | If in the correct format, the player will be able to access their save game | |			
+| 1 |Software loads and Main Menu |The game starts up and the Player is presented with the Main Menu. |√ |			
+| 2 |Player selects Story Mode |Story mode Menu appears |√ |			
+| 3 |Player selects Load Game |Player goes to the load game Menu |√ |			
+| 4 |Player selects their save file | If in the correct format, the player will be able to access their save game |√ |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
@@ -150,10 +151,3 @@
 ## Overall Test Status:
 
 
-
-## Run History:
-| # |	Run Date |	Run By |	Results |
-| --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
