@@ -62,15 +62,15 @@ Success
 * Creation Date:
   * 2018 October 9
 * Modified By:
-  * Name
+  * 
 * Modified Date:
-  * Date
+  * 
 * Requirements Covered:
   * The file must be saved in a particular format and include all the game data that needs to be read back in at a later time so the game can continue
 * Test Description/Purpose:
   * If the file isn’t in a certain format then the game won’t be able to load all the information back in at a later date.
 * Pre-Test Conditions:
-  * Description
+  * User is able to access the save menu. 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
@@ -149,5 +149,6 @@ Success
 | 10 | | | |			
 
 ## Overall Test Status:
+Success
 
 
