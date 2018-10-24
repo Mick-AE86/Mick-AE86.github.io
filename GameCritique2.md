@@ -14,14 +14,14 @@ One issue I came across while playing is sometimes while continuosly strafing, t
  
 ## Bullet Patterns: 
 Besides testing to ensure the bullets properly display the desired patterns, the tester would also have to ensure the patterns 
- are fair towards the player to ensure they can maneuver through the patterns and whatever the enemies may hurl their way. The developer must ensure the cobinations of patterns is balanced.
+ are fair towards the player to ensure they can maneuver through the patterns and whatever the enemies may hurl their way. The developer must ensure the cobinations of patterns is balanced. In the game, the bullet patterns from each enemy does provide a path the player is able to make while still being balanced yet difficult.
  
 ## Bullet collisions: 
-What's a bullet hell game whithout collision? If there is no collision, there is no challenge. In reference to the last paragraph, the bullet collision should be active and tested to make sure the collision detection is not much larger than the sprite itself nor too small. 
+What's a bullet hell game whithout collision? If there is no collision, there is no challenge. In reference to the last paragraph, the bullet collision should be active and tested to make sure the collision detection is not much larger than the sprite itself nor too small. In the software, collision is similar to the shape of the bullet sprite of both player and enemies.
  
 ## Hitbox collision: 
 The player's hitbox must be able to collide with enemy bullets and react accordingly via a life deduction 
- towards the player or another type of penalty. The hitbox collision is about the size of a sprite located on top of the player sprite. This should be tested to have a collision box that is able to collide with enemy bullets in order penalize the player should the player touch it. 
+ towards the player or another type of penalty. The hitbox collision is about the size of a sprite located on top of the player sprite. This should be tested to have a collision box that is able to collide with enemy bullets in order penalize the player should the player touch it. The player does receive proper penalty for having their hitbox collide with an enemy bullet's hitbox. The player loses a life and rejoins in the playing feild. 
  ##
  
  
