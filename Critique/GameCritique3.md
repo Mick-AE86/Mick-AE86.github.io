@@ -12,4 +12,4 @@
 * Bananas are a collectable item in the game with incentive. Initially, the player has 3 lives per continue. When the player collects one hundred of the item, they receive an extra life. Each banana is worth one and each bundle is worth ten bananas. On the opposite end, a fall out results in one life lost.
   The software does in fact give the player an extra life for collecting the amount of bananas required and properly subtract a life for a player's fall out. This works with bananas collected from bonus levels as well.
 
-###### (A Fall Out is defined by a player falling off the map or level without reaching the goal)
+###### A Fall Out is defined by a player falling off the level without passing through the goal posts.
