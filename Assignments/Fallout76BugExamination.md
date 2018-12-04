@@ -2,13 +2,13 @@
 
 ### Issue 1 
 ###### (Acquired from https://www.reddit.com/r/fo76/comments/a1to3g/december_4th_patch_notes/)
-#### Stabilitiy and performance issue: Console: Fixed an issue that could cause the player to encounter an infinite loading screen when signing out of their console account while playing Fallout 76.
-Type of testing: 
+#### Stabilitiy and performance issue: Console: The player could encounter an infinite loading screen when signing out of their console account while playing Fallout 76.
+Type of testing: Compatibility Testing 
 ### Issue 2
-#### User Interface: AFK: Players will now be disconnected from a game world after 10 minutes of inactivity and will be prompted with a timer 1 minute before being kicked.
+#### User Interface: Respawn: Players who die while severely overencumbered will remove all map markers when attempting to respawn. The player would have to restart at the original start point after respawning.
 Type of testing: 
 ### Issue 3
-#### User Interface: Enemies: Red crosshairs and enemy health bars will no longer persist on-screen when an enemy is no longer in view.
+#### User Interface: Enemies: Red crosshairs and enemy health bars stay on-screen when an enemy is not in sight.
 Type of testing: 
 ### Issue 4 
 ###### (Acquired from https://www.reddit.com/r/fo76/comments/a2wci6/psa_if_you_see_a_gulper_storing_a_ton_of_missiles/)
