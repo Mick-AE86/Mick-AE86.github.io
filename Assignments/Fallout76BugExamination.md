@@ -13,8 +13,8 @@ Type of testing:
 ### Issue 4 
 ###### (Acquired from https://www.reddit.com/r/fo76/comments/a2wci6/psa_if_you_see_a_gulper_storing_a_ton_of_missiles/)
 #### Stash: Phantom weight may be acquired due to looting gulpers with 44 missles. The player cannot rid themselves of the weight even if their stash is empty.
-Type of testing: 
+Type of testing: Black box, Functional
 ### Issue 5
 ###### (Acquired from: https://twitter.com/y_nakajima_/status/1069111762610356224)
 #### Stability and performance issue: In the Whitespring Resort area, there seems to be a bug occuring where many robots are being generated.
-Type of testing: Functional
+Type of testing: White box, Functional. The developers would have to test the code that spawns the robot and figure out how they could prevent the code from spawning multiple of an asset and behave correctly.
