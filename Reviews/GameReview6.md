@@ -1,5 +1,4 @@
-## Review 6
-### Game: Skullmonkeys
+# Skullmonkeys
 #### Platform: Playstation
 #### Developer: The Neverhood Inc.
 #### Publisher: Electronic Arts
